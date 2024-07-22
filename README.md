@@ -1,1 +1,1 @@
-# Oasis-Infobyte-Web-Dev-Intern
+# Oasis-Infobyte-Web-Development-Intern
